@@ -1,0 +1,15 @@
+.lang-switch {
+  min-width: auto;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  --btn-radius: 5px;
+  --btn-bg: var(--langs-btn-bg);
+  --btn--hover-bg: var(--langs-btn-bg-hover);
+  --btn-padding-v: 8px;
+  --btn-padding-h: 10px;
+  --btn--color: var(--header-color);
+  --btn--hover-color: #9f9c9c;
+  margin-left: 14px;
+  border: 1px solid;
+}

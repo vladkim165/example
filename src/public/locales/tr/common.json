@@ -1,0 +1,17 @@
+{
+  "download": "İndir",
+  "converter": "dönüştürücü ",
+  "for_free": "ücretsiz",
+  "convert_to": "E dönüşmek",
+  "or": "veya",
+  "download_converter": "İndir dönüştürücü",
+  "conv_input_text": "https ile video adresini yapıştırın: // veya http: //",
+  "conv_input_suggest": "Medyaya linki giriniz",
+  "conv_another": "dönüşüme geri dön",
+  "buttonOs": {
+    "label": "İndir",
+    "subLabel": "Windows 10/8/7"
+  },
+  "home": "Ev",
+  "studio_footer_link": "YouTube Indiricinizi"
+}

@@ -1,0 +1,17 @@
+{
+  "download": "Pobierz",
+  "converter": "konwerter ",
+  "for_free": "za darmo",
+  "convert_to": "Przekonwertuj na",
+  "or": "lub",
+  "download_converter": "Pobierz konwerter",
+  "conv_input_text": "Podaj link do mediów",
+  "conv_input_suggest": "Podaj link do mediów",
+  "conv_another": "Przekonwertuj inne wideo online",
+  "buttonOs": {
+    "label": "Pobierz",
+    "subLabel": "Dla Windows 10/8/7"
+  },
+  "home": "Dom",
+  "studio_footer_link": "YouTube Downloader"
+}

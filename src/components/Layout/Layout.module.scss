@@ -1,0 +1,11 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+
+  --header-color: #bfbfbf;
+  --langs-panel-color: #bfbfbf;
+  --langs-panel-bg: #1f1f1f;
+  --langs-btn-bg: transparent;
+  --langs-btn-bg-hover: transparent;
+}

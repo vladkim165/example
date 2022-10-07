@@ -1,0 +1,27 @@
+version: "3"
+
+services:
+  mongo:
+    image: mongo:4.0.0
+    environment:
+      MONGO_INITDB_DATABASE: youtubemp3donusturucu # юзать env?
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: root
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./src/data:/data/db
+
+  youtubemp3donusturucu:
+    build:
+      context: .
+      dockerfile: ./docker/dev/Dockerfile
+    env_file:
+      - ./docker/dev/env/youtubemp3donusturucu.env
+      - ./docker/dev/env/.test.env
+    ports:
+      - "3080:3080"
+    volumes:
+      - ./src:/src
+    depends_on:
+      - mongo

@@ -1,0 +1,30 @@
+.langs-panel {
+  font-size: 14px;
+  line-height: 24px;
+  color: var(--langs-panel-color, #fff);
+  background: var(--langs-panel-bg);
+}
+
+.lang-item {
+  font-size: 14px;
+  transition: color 0.3s ease-in-out;
+  line-height: 16px;
+
+  &:hover {
+    color: var(--langs-panel-color-hover, var(--pink-hover));
+  }
+
+  @media (--less-medium) {
+    display: inline-block;
+    background: var(--langs-btn-bg);
+    padding: 12px;
+    border-radius: 3px;
+    transition: background 0.3s ease-in-out;
+    margin: 5px;
+
+    &:hover {
+      background: var(--langs-btn-bg-hover);
+      color: var(--langs-panel-color, #fff);
+    }
+  }
+}

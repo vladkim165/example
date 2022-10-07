@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  flv2all_prod:
+    build:
+      context: .
+      dockerfile: ./docker/prod/Dockerfile
+    env_file:
+      - ./docker/prod/env/flv2all.env
+    ports:
+      - 3077:3077

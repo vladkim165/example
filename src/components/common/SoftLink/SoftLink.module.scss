@@ -1,0 +1,16 @@
+.landing-link {
+  display: flex;
+  align-items: center;
+  max-width: 220px;
+  margin: 20px;
+
+  &:not(:hover) {
+    text-decoration: underline;
+  }
+
+  svg {
+    height: 50px;
+    margin-inline-end: 15px;
+    flex-shrink: 0;
+  }
+}

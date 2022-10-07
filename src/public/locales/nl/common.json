@@ -1,0 +1,17 @@
+{
+  "download": "Download",
+  "converter": "converter ",
+  "for_free": "gratis",
+  "convert_to": "Omzetten naar",
+  "or": "of",
+  "download_converter": "Download converter",
+  "conv_input_text": "Geef de link naar de media in",
+  "conv_input_suggest": "Geef de link naar de media in",
+  "conv_another": "Een andere video online omzetten",
+  "buttonOs": {
+    "label": "Download",
+    "subLabel": "Voor Windows 10/8/7"
+  },
+  "home": "Thuis",
+  "studio_footer_link": "YouTube Downloader"
+}

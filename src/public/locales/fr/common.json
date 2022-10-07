@@ -1,0 +1,17 @@
+{
+  "download": "Télécharger",
+  "converter": "convertisseur",
+  "for_free": "gratis",
+  "convert_to": "convertir en",
+  "or": "ou",
+  "download_converter": "Télécharger convertisseur",
+  "conv_input_text": "Entrez le lien de la vidéo",
+  "conv_input_suggest": "S'il vous plaît entrer le lien vers les médias",
+  "conv_another": "reconvertir",
+  "buttonOs": {
+    "label": "Télécharger",
+    "subLabel": "Windows 10/8/7"
+  },
+  "home": "Accueil",
+  "studio_footer_link": "YouTube Downloader"
+}

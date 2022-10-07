@@ -1,0 +1,24 @@
+.section {
+  background-color: #363130;
+  padding: 15px 0;
+  color: #bfbfbf;
+  font-weight: 300;
+}
+
+.bm-link {
+  display: inline-block;
+  margin: 5px 20px;
+  transition: opacity 250ms;
+
+  &:not(:hover) {
+    opacity: 0.5;
+  }
+}
+
+@media (max-width: 980px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

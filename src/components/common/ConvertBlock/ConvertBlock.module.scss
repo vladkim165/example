@@ -1,0 +1,21 @@
+.convert-step:not(.is-active) {
+  display: none;
+}
+
+.text-center {
+  text-align: center;
+  margin: 0 0 33px;
+  word-break: break-word;
+}
+
+.top-content {
+  background-color: #f6f0e9;
+  padding: 60px 0 40px 0;
+}
+
+@media (max-width: 560px) {
+  .top-content {
+    background-color: #ff9a1a;
+    color: #fff;
+  }
+}

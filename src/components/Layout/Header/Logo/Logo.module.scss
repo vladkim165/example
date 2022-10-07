@@ -1,0 +1,15 @@
+.logo {
+  color: #fff;
+  opacity: 0.6;
+  transition: opacity 300ms;
+  font-size: 30px;
+  line-height: 53px;
+
+  @media (max-width: 980px) {
+    font-size: 22px;
+    line-height: 40px;
+  }
+  &:hover {
+    opacity: 1;
+  }
+}

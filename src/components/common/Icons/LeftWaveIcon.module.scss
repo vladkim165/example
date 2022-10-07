@@ -1,0 +1,11 @@
+.left-wave {
+  width: 173px;
+  max-width: 18%;
+  flex-shrink: 0;
+}
+
+@media (max-width: 1300px) {
+  .left-wave {
+    display: none;
+  }
+}

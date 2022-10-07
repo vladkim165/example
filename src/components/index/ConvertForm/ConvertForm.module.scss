@@ -1,0 +1,54 @@
+.convert-form {
+  margin: 0 auto;
+}
+
+.convert-url {
+  background-color: #fff;
+  border-top: 6px solid #ebebeb;
+  display: block;
+  font-size: 18px;
+  padding: 9px 9px 10px;
+  box-sizing: border-box;
+  width: 100%;
+  color: rgb(67, 63, 62)
+}
+
+.convert-info {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+
+  svg {
+    width: 20px;
+    margin-inline-end: 10px;
+  }
+}
+
+.form-footer {
+  display: flex;
+  font-size: 18px;
+}
+
+.or {
+  align-self: center;
+  margin: 0 10px;
+  color: #fff;
+}
+
+.btn-download {
+  min-height: 100%;
+  border: 4px solid #505050;
+  border-radius: 8px;
+  --btn-bg: #088b55;
+  --btn--hover-bg: #42734b;
+}
+
+@media (max-width: 980px) {
+  .or,
+  .btn-download {
+    display: none;
+  }
+}

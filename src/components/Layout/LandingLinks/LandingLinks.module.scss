@@ -1,0 +1,15 @@
+.section {
+  background: #d3cfc9;
+  padding: 15px 0;
+
+  @media (max-width: 980px) {
+    display: none;
+  }
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  composes: container from global;
+}

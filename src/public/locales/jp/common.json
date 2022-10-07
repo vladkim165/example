@@ -1,0 +1,17 @@
+{
+  "download": "ダウンロード",
+  "converter": "コンバーター",
+  "for_free": "無料",
+  "convert_to": "化す",
+  "or": "または",
+  "download_converter": "ダウンロード コンバーター",
+  "conv_input_text": "リンクを貼ってください",
+  "conv_input_suggest": "リンクを貼ってください",
+  "conv_another": "オンラインで他のビデオを変換",
+  "buttonOs": {
+    "label": "ダウンロード",
+    "subLabel": "Windows 10/8/7用"
+  },
+  "home": "家",
+  "studio_footer_link": "YouTube Downloader"
+}

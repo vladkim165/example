@@ -1,0 +1,14 @@
+
+.section {
+  padding: 50px 0;  
+  .link {
+    color: black;
+    text-decoration: underline;
+    &:visited {
+      color: rgb(76, 77, 30);
+    }
+    &:hover {
+      color: red;
+    }
+  }
+}

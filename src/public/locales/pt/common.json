@@ -1,0 +1,17 @@
+{
+  "download": "Baixar",
+  "converter": "conversor",
+  "for_free": "grátis",
+  "convert_to": "Converter para",
+  "or": "ou",
+  "download_converter": "Baixar conversor",
+  "conv_input_text": "Cole o endereço de um vídeo com https: // ou http: //",
+  "conv_input_suggest": "Por favor insira o link para os media",
+  "conv_another": "volver a convertir",
+  "buttonOs": {
+    "label": "Baixar",
+    "subLabel": "Windows 10/8/7"
+  },
+  "home": "Página inicial",
+  "studio_footer_link": "Downloader de YouTube"
+};

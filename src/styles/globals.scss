@@ -1,0 +1,53 @@
+body {
+  color: #433f3e;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 400;
+  font-family: Arial, "Arial Narrow", monospace, sans-serif;
+}
+
+.container {
+  padding: 0 20px;
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+h1,
+.as-h1 {
+  font-size: 36px;
+  font-weight: 700;
+  margin: 0 0 33px;
+}
+h2,
+.as-h2 {
+  font-size: 30px;
+  font-weight: normal;
+  margin-bottom: 13px;
+}
+h3,
+.as-h3 {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 27px;
+  margin-bottom: 13px;
+}
+
+@media (--tablet) {
+  .container {
+    max-width: 640px;
+  }
+
+  h1,
+  .as-h1 {
+    font-size: 30px;
+    line-height: 34px;
+  }
+}
+
+p:not(:last-child) {
+  margin-bottom: 10px;
+}

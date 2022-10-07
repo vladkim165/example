@@ -1,0 +1,26 @@
+.about {
+  padding-bottom: 100px;
+}
+
+.colored > .about-row {
+  padding: 30px 0;
+
+  &:nth-child(2n-1) {
+    background-color: #f6f0e9;
+  }
+}
+
+.about-row {
+  padding: 15px 0;
+}
+
+@media (--tablet) {
+  .about-ad {
+    float: none;
+  }
+
+  .about > .container {
+    text-align: center;
+    padding: 0;
+  }
+}

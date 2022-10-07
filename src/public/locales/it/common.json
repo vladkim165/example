@@ -1,0 +1,17 @@
+{
+  "download": "Scarica",
+  "converter": "сonvertitore",
+  "for_free": "gratis",
+  "convert_to": "Converti in",
+  "or": "OPPURE",
+  "download_converter": "Scarica сonvertitore",
+  "conv_input_text": "Si prega di incollare un indirizzo video con https: // o http: //",
+  "conv_input_suggest": "Inserisci il link al media",
+  "conv_another": "convertire",
+  "buttonOs": {
+    "label": "Scaricare",
+    "subLabel": "Windows 10/8/7"
+  },
+  "home": "Casa",
+  "studio_footer_link": "YouTube Downloader"
+};

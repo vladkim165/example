@@ -1,0 +1,17 @@
+{
+  "download": "Descargar",
+  "converter": "Convertidor",
+  "for_free": "gratis",
+  "convert_to": "Convertir a",
+  "or": "o",
+  "download_converter": "Descargar Convertidor",
+  "conv_input_text": "Por favor, pegue una direcci  n video con https: // o http: //",
+  "conv_input_suggest": "Por favor, introduzca el enlace a los medios",
+  "conv_another": "volver a convertir",
+  "buttonOs": {
+    "label": "Descargar",
+    "subLabel": "Windows 10/8/7"
+  },
+  "home": "Hogar",
+  "studio_footer_link": "YouTube Downloader"
+}

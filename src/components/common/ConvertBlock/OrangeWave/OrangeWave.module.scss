@@ -1,0 +1,39 @@
+.orange-wave-back {
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  max-width: 1280px;
+}
+
+.orange-wave {
+  flex-grow: 1;
+  align-self: normal;
+  min-height: 150px;
+}
+
+@media not screen and (max-width: 560px) {
+  .orange-wave {
+    background: url('./images/orange-wave.svg') no-repeat center center;
+    background-size: 100% 100%;
+  }
+
+  .wave-inner {
+    padding: 50px 18%;
+  }
+}
+
+@media (max-width: 1300px) {
+  .orange-wave {
+    max-width: 930px;
+    margin: auto;
+  }
+  .orange-wave-back {
+    padding: 0 20px;
+  }
+}
+
+@media (max-width: 980px) {
+  .orange-wave {
+    max-width: 610px;
+  }
+}
